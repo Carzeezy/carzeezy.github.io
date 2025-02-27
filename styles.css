@@ -1,8 +1,11 @@
 body {
-	background: [burlywood];
+	background: rgb(243,166,123);
 	font-family: Arial, Helvetica, sans-serif;
 }
 h1 {
-	color: [palevioletred];
+	color: rgb(66, 229, 241); 
 	text-align: center;
+}
+.about{
+    background: yellow;
 }
